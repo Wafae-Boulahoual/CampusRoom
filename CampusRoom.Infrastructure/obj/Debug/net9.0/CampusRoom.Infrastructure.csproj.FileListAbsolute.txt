@@ -1,0 +1,15 @@
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.deps.json
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.dll
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.pdb
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.AssemblyReference.cache
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfoInputs.cache
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfo.cs
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRo.29404CA0.Up2Date
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\refint\CampusRoom.Infrastructure.dll
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\ref\CampusRoom.Infrastructure.dll
