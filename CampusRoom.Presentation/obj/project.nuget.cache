@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWV7bnFaxwo=",
+  "dgSpecHash": "Bh08ShA8Rbo=",
   "success": true,
-  "projectFilePath": "C:\\AppProject\\CampusRoom\\CampusRoom.Presentation\\CampusRoom.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\CampusRoom.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wafae\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\wafae\\.nuget\\packages\\googlegson\\2.13.0.1\\googlegson.2.13.0.1.nupkg.sha512",
