@@ -1,5 +1,11 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using CampusRoom.Application.Interfaces;
+using CampusRoom.Application.Services;
+using CampusRoom.Infrastructure.Data;
+using CampusRoom.Infrastructure.Services;
+using Domain.Models.Interfaces;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Maui.LifecycleEvents;
 
 #if WINDOWS
@@ -21,9 +27,29 @@ namespace CampusRoom.Presentation
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-                })
+                });
 
-                .ConfigureLifecycleEvents(events =>
+            builder.Configuration.AddUserSecrets<App>();
+            var connectionString = builder.Configuration["MongoDB:ConnectionString"];
+            var databaseName = builder.Configuration["MongoDb:DatabaseName"];
+
+            builder.Services.AddSingleton(new CampusRoomDbContext(connectionString, databaseName));
+
+            builder.Services.AddSingleton<IUserRepository, UserRepository>();
+            builder.Services.AddSingleton<IRoomRepository, RoomRepository>();
+            builder.Services.AddSingleton<IFloorRepository, FloorRepository>();
+            builder.Services.AddSingleton<IBookingRepository, BookingRepository>();
+
+            builder.Services.AddSingleton<ILoginService, LoginService>();
+            builder.Services.AddSingleton<IBookingService, BookingService>();
+            builder.Services.AddSingleton<IRoomService, RoomService>(); 
+
+            
+            
+
+
+
+                builder.ConfigureLifecycleEvents(events =>
                 {
 #if WINDOWS
                     events.AddWindows(windows => windows

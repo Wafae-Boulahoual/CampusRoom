@@ -19,7 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampusRoom.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f3e6a0824f279358461a9218a7dbe5eb9fc18028")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+770b2cd71a3bb483b36e6fd3f416f31eb545f9d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CampusRoom.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampusRoom.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

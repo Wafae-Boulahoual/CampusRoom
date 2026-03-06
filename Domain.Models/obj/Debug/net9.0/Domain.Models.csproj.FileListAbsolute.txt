@@ -10,3 +10,16 @@ C:\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.dll
 C:\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\refint\Domain.Models.dll
 C:\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.pdb
 C:\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\ref\Domain.Models.dll
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\bin\Debug\net9.0\Domain.Models.deps.json
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\bin\Debug\net9.0\Domain.Models.dll
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\bin\Debug\net9.0\Domain.Models.pdb
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.csproj.AssemblyReference.cache
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.AssemblyInfoInputs.cache
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.AssemblyInfo.cs
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.sourcelink.json
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.dll
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\refint\Domain.Models.dll
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.pdb
+C:\Users\wafae\OneDrive\Desktop\campusRoomFiles\AppProject\CampusRoom\Domain.Models\obj\Debug\net9.0\ref\Domain.Models.dll

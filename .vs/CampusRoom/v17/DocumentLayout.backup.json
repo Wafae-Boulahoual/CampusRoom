@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\MauiProgram.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:37:11.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MainPage.xaml",
               "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\MainPage.xaml",
               "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MainPage.xaml",
               "RelativeToolTip": "CampusRoom.Presentation\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-06T08:37:10.457Z"
+              "WhenOpened": "2026-03-06T08:37:10.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MainPage.xaml.cs",
               "RelativeToolTip": "CampusRoom.Presentation\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:30:30.36Z"
+              "WhenOpened": "2026-03-05T13:30:30.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\MauiProgram.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:37:11.769Z",
+              "EditorCaption": ""
             }
           ]
         }
