@@ -1,10 +1,13 @@
-﻿namespace CampusRoom.Presentation
+﻿using CampusRoom.Presentation.Views;
+
+namespace CampusRoom.Presentation
 {
     public partial class App : Microsoft.Maui.Controls.Application
     {
         public App()
         {
             InitializeComponent();
+ 
         }
 
         protected override Window CreateWindow(IActivationState? activationState)

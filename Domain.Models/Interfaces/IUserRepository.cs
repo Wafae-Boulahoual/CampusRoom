@@ -9,6 +9,6 @@ namespace Domain.Models.Interfaces
 {
     public interface IUserRepository
     {
-        Task<User> GetUserByEmail(string email); // no async för att vi ska inte skapa nya users eller ändra de
+        Task<User?> GetUserByEmail(string email); // no async för att vi ska inte skapa nya users eller ändra de
     }
 }

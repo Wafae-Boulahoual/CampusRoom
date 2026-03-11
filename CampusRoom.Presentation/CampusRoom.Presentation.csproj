@@ -68,13 +68,30 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="ViewModels\" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <ProjectReference Include="..\CampusRoom.Application\CampusRoom.Application.csproj" />
 	  <ProjectReference Include="..\CampusRoom.Infrastructure\CampusRoom.Infrastructure.csproj" />
 	  <ProjectReference Include="..\Domain.Models\Domain.Models.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Views\StudyRoomsPage.xaml.cs">
+	    <DependentUpon>StudyRoomsPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Views\LoginPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\MyBookingPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\RoomDetailsPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\StudyRoomsPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>

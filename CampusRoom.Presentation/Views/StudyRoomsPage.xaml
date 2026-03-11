@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CampusRoom.Presentation.Views.StudyRoomsPage"
+             Title="CampusRoom">
+    <Grid>
+        <Image Source="background.png"
+               Aspect="AspectFill"
+               Opacity="0.5"/>
+        <VerticalStackLayout Padding="20" Spacing="20">
+            <HorizontalStackLayout Spacing="10">
+                <Picker x:Name="FilterPicker"
+                        Title="Välj filter"
+                        SelectedIndexChanged="OnFilterChanged">
+                    <Picker.Items>
+                        <x:String>Alla</x:String>
+                        <x:String>Våning 2</x:String>
+                        <x:String>Våning 3</x:String>
+                        <x:String>Våning 4</x:String>
+                        <x:String>Inga dörrar</x:String>
+                        <x:String>Med TV</x:String>
+                        <x:String>Med högtalare</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Button Text="Mina bokningar"
+                        Clicked="OnMyBookingsClicked"/>
+                <Button Text="Logga ut"
+                        Clicked="OnLogoutClicked"/>
+            </HorizontalStackLayout>
+            <CollectionView ItemsSource="{Binding Rooms}"
+                            SelectionMode="Single"
+                            SelectionChanged="OnRoomSelected">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="5"
+                               Padding="10"
+                               BorderColor="LightGray"
+                               CornerRadius="8">
+                            <VerticalStackLayout>
+                                <Label Text="{Binding RoomNumber}"
+                                       FontAttributes="Bold"
+                                       FontSize="18"/>
+                                <Label Text="{Binding FloorId,
+                                       StringFormat='Våning: {0}'}"
+                                       FontSize="14"/>
+                                <Label Text="Tillgänglig"
+                                       FontSize="14"
+                                       TextColor="Green"/>
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

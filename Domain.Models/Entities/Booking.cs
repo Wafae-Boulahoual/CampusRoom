@@ -12,7 +12,7 @@ namespace Domain.Models.Entities
         public string RoomId { get; set; }
         public string UserId { get; set; }
         public DateTime Date {  get; set; } // vi hanterar bokiningar för endast samma dag
-        public TimeSpan StartTime { get; set; }// vi hanterar olika tider på samma dag
-        public TimeSpan EndTime { get; set; }
+        public DateTime StartTime { get; set; } = DateTime.Now;// vi hanterar olika tider på samma dag
+        public DateTime EndTime { get; set; } = DateTime.Now.AddDays(1);
     }
 }

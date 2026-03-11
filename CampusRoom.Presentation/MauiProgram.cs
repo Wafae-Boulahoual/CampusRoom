@@ -7,12 +7,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Maui.LifecycleEvents;
+using CampusRoom.Presentation.Views;
+using CampusRoom.Application.Facades;
+using CampusRoom.Presentation.ViewModels;
 
-#if WINDOWS
-using Microsoft.UI;
-using Microsoft.UI.Windowing;
-using Windows.Graphics;
-#endif
+
 
 namespace CampusRoom.Presentation
 {
@@ -40,29 +39,18 @@ namespace CampusRoom.Presentation
             builder.Services.AddSingleton<IFloorRepository, FloorRepository>();
             builder.Services.AddSingleton<IBookingRepository, BookingRepository>();
 
-            builder.Services.AddSingleton<ILoginService, LoginService>();
+            builder.Services.AddSingleton<ILoginFacade, LoginFacade>();
             builder.Services.AddSingleton<IBookingService, BookingService>();
-            builder.Services.AddSingleton<IRoomService, RoomService>(); 
+            builder.Services.AddSingleton<IRoomService, RoomService>();
+
+            builder.Services.AddSingleton<LoginViewModel>();
+            builder.Services.AddTransient<StudyRoomsViewModel>();
+
+            builder.Services.AddSingleton<MyBookingPage>();
+            builder.Services.AddTransient<RoomDetailsPage>();
 
             
-            
 
-
-
-                builder.ConfigureLifecycleEvents(events =>
-                {
-#if WINDOWS
-                    events.AddWindows(windows => windows
-                        .OnWindowCreated(window =>
-                        {
-                            var handle = WinRT.Interop.WindowNative.GetWindowHandle(window);
-                            var id = Win32Interop.GetWindowIdFromWindow(handle);
-                            var appWindow = AppWindow.GetFromWindowId(id);
-                            
-                            appWindow.Resize(new SizeInt32(550, 900)); 
-                        }));
-#endif
-                                });
 
 #if DEBUG
             builder.Logging.AddDebug();
