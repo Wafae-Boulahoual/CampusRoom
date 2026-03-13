@@ -1,3 +1,5 @@
+using CampusRoom.Application.Interfaces;
+using CampusRoom.Application.Services;
 using CampusRoom.Presentation.ViewModels;
 using Domain.Models.Entities;
 
@@ -6,10 +8,14 @@ namespace CampusRoom.Presentation.Views;
 public partial class StudyRoomsPage : ContentPage
 {
     private readonly StudyRoomsViewModel _studyRoomsViewModel;
-    public StudyRoomsPage(StudyRoomsViewModel studyRoomsViewModel)
+    private readonly IBookingService _bookingService;
+    private readonly IRoomService _roomService;
+    public StudyRoomsPage(StudyRoomsViewModel studyRoomsViewModel, IRoomService roomService, IBookingService bookingService)
 	{
 		InitializeComponent();
         _studyRoomsViewModel = studyRoomsViewModel;
+        _roomService = roomService;
+        _bookingService = bookingService;
         BindingContext = _studyRoomsViewModel;
         LoadRooms();
     }
@@ -22,9 +28,7 @@ public partial class StudyRoomsPage : ContentPage
     {
         if (FilterPicker.SelectedItem != null)
         {
-            string filter = FilterPicker.SelectedItem.ToString();
-
-            _studyRoomsViewModel.ApplyFilter(filter);
+            _studyRoomsViewModel.ApplyFilter(FilterPicker.SelectedItem.ToString());
         }
     }
 
@@ -33,24 +37,22 @@ public partial class StudyRoomsPage : ContentPage
         await Shell.Current.GoToAsync(nameof(MyBookingPage));
     }
 
-    private async void OnRoomTapped(object sender, EventArgs e)
+
+    private async void OnLogoutClicked(object sender, EventArgs e)
     {
-        Frame frame = (Frame)sender;
-
-        Room room = (Room)frame.BindingContext;
-        if (room == null)
-        {
-            return;
-        }
-
-        var roomPage = new RoomDetailsPage();
-        roomPage.SetRoom(room);
-
-        await Shell.Current.GoToAsync(nameof(RoomDetailsPage));
+        await Shell.Current.GoToAsync("//LoginPage");
+       // await Navigation.PopToRootAsync();
     }
 
-    private void OnLogoutClicked(object sender, EventArgs e)
+    private async void OnRoomSelected(object sender, SelectedItemChangedEventArgs e)
     {
-        Shell.Current.GoToAsync("//LoginPage");
+        if (e.SelectedItem == null)
+            return;
+
+        var selectedRoom = (Room)e.SelectedItem;
+
+        await Shell.Current.GoToAsync($"{nameof(RoomDetailsPage)}?roomId={selectedRoom.Id}");
+
+        ((ListView)sender).SelectedItem = null;
     }
 }

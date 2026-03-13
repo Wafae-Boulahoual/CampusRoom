@@ -5,6 +5,7 @@ using CampusRoom.Infrastructure.Services;
 using Domain.Models.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using Microsoft.Maui.Graphics;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Maui.LifecycleEvents;
 using CampusRoom.Presentation.Views;
@@ -46,10 +47,12 @@ namespace CampusRoom.Presentation
             builder.Services.AddSingleton<LoginViewModel>();
             builder.Services.AddTransient<StudyRoomsViewModel>();
 
+            builder.Services.AddSingleton<LoginPage>();
             builder.Services.AddSingleton<MyBookingPage>();
-            builder.Services.AddTransient<RoomDetailsPage>();
+            builder.Services.AddSingleton<RoomDetailsPage>();
+            //builder.Services.AddSingleton<BookRoomPage>();
 
-            
+
 
 
 #if DEBUG

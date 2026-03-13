@@ -1,146 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\",
+  "WorkspaceRootPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\studyroomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\studyroomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\bookroompage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\bookroompage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\studyroomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\studyroomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\bookroompage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\bookroompage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\mybookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\mybookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\mybookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\mybookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\roomdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\roomdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\roomdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\viewmodels\\studyroomsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\viewmodels\\studyroomsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\roomdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\roomdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\domain.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\data\\campusroomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\data\\campusroomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\domain.models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\viewmodels\\bookroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\viewmodels\\bookroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\domain.models\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\studyroomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\studyroomspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\domain.models\\interfaces\\ifloorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\interfaces\\ifloorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\mybookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\mybookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\domain.models\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\helpers\\converters\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\helpers\\converters\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\domain.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\helpers\\converters\\booltograyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\helpers\\converters\\booltograyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\domain.models\\entities\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\entities\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\seeder\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\seeder\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\seeder\\roomseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\seeder\\roomseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\seeder\\floorseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\seeder\\floorseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\studyroomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\studyroomspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\mybookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\mybookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\repositories\\floorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\repositories\\floorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\viewmodels\\studyroomsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\viewmodels\\studyroomsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|solutionrelative:campusroom.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\viewmodels\\roomdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\viewmodels\\roomdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.presentation\\helpers\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527B2C97-E324-4834-94EE-9586530C1B28}|CampusRoom.Presentation\\CampusRoom.Presentation.csproj|solutionrelative:campusroom.presentation\\helpers\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|solutionrelative:campusroom.application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|solutionrelative:campusroom.application\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\interfaces\\iloginfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|solutionrelative:campusroom.application\\interfaces\\iloginfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|solutionrelative:campusroom.application\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B3ABE-F370-4E82-9D9F-F0B75A60AA2F}|CampusRoom\\CampusRoom.csproj|c:\\users\\wafae\\onedrive\\desktop\\campusroomfiles\\appproject\\campusroom\\campusroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B3ABE-F370-4E82-9D9F-F0B75A60AA2F}|CampusRoom\\CampusRoom.csproj|solutionrelative:campusroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A24045-4998-4749-A9BE-521C1584C318}|CampusRoom.Application\\CampusRoom.Application.csproj|solutionrelative:campusroom.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|c:\\campusroomfiles\\appproject\\campusroom\\campusroom.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8911728-5253-41DD-908C-23F77839B435}|CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj|solutionrelative:campusroom.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\campusroomfiles\\appproject\\campusroom\\domain.models\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\campusroomfiles\\appproject\\campusroom\\domain.models\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|c:\\campusroomfiles\\appproject\\campusroom\\domain.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA20FA-D017-451A-AB06-D9E459706E5A}|Domain.Models\\Domain.Models.csproj|solutionrelative:domain.models\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -163,456 +143,391 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\MauiProgram.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAEwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:37:11.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T09:08:12.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudyRoomsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwC4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T12:14:18.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyBookingPage.xaml",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
-              "RelativeToolTip": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T13:46:16.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyBookingPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:47:10.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "RoomDetailsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml",
               "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml",
               "RelativeToolTip": "CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T13:46:50.106Z",
+              "WhenOpened": "2026-03-13T10:00:46.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudyRoomsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
-              "RelativeToolTip": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBsAAAAqAAAAAAAAAA==",
+              "Title": "BookRoomPage.xaml",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\BookRoomPage.xaml",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\BookRoomPage.xaml",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\BookRoomPage.xaml",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\BookRoomPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T12:05:04.525Z",
+              "WhenOpened": "2026-03-13T09:13:23.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudyRoomsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwCwAAABDAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RoomDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\RoomDetailsPage.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:15:32.486Z",
+              "WhenOpened": "2026-03-13T08:54:31.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Room.cs",
-              "RelativeDocumentMoniker": "Domain.Models\\Entities\\Room.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Room.cs",
-              "RelativeToolTip": "Domain.Models\\Entities\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\MauiProgram.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\MauiProgram.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\MauiProgram.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T13:36:03.741Z",
+              "WhenOpened": "2026-03-13T09:19:47.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml",
-              "RelativeToolTip": "CampusRoom.Presentation\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-10T09:08:21.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BookRoomViewModel.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\BookRoomViewModel.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\ViewModels\\BookRoomViewModel.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\BookRoomViewModel.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\ViewModels\\BookRoomViewModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T11:54:51.767Z",
+              "WhenOpened": "2026-03-13T09:13:39.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\App.xaml",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml",
-              "RelativeToolTip": "CampusRoom.Presentation\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-10T08:18:23.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BookRoomPage.xaml.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\BookRoomPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\BookRoomPage.xaml.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\BookRoomPage.xaml.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\BookRoomPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T09:08:02.352Z",
+              "WhenOpened": "2026-03-13T09:18:29.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CampusRoomDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Data\\CampusRoomDbContext.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Data\\CampusRoomDbContext.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Data\\CampusRoomDbContext.cs",
-              "RelativeToolTip": "CampusRoom.Infrastructure\\Data\\CampusRoomDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxEAAAAMAAAAAAAAAA==",
+              "Title": "InverseBoolConverter.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Helpers\\Converters\\InverseBoolConverter.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Helpers\\Converters\\InverseBoolConverter.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Helpers\\Converters\\InverseBoolConverter.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Helpers\\Converters\\InverseBoolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:12:33.355Z",
+              "WhenOpened": "2026-03-13T09:30:47.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoolToGrayConverter.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Helpers\\Converters\\BoolToGrayConverter.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Helpers\\Converters\\BoolToGrayConverter.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Helpers\\Converters\\BoolToGrayConverter.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Helpers\\Converters\\BoolToGrayConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:29:37.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\App.xaml.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:18:43.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyBookingPage.xaml.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:10:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudyRoomsPage.xaml.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:54:18.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml",
-              "RelativeToolTip": "CampusRoom.Presentation\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T11:54:14.879Z",
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\AppShell.xaml.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:18:48.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwCQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T11:34:36.484Z",
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\AppShell.xaml",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\AppShell.xaml",
+              "RelativeToolTip": "CampusRoom.Presentation\\AppShell.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T09:19:40.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IRoomRepository.cs",
-              "RelativeDocumentMoniker": "Domain.Models\\Interfaces\\IRoomRepository.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IRoomRepository.cs",
-              "RelativeToolTip": "Domain.Models\\Interfaces\\IRoomRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:17:18.808Z",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\App.xaml",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\App.xaml",
+              "RelativeToolTip": "CampusRoom.Presentation\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T09:18:45.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IFloorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IFloorRepository.cs",
-              "RelativeDocumentMoniker": "Domain.Models\\Interfaces\\IFloorRepository.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IFloorRepository.cs",
-              "RelativeToolTip": "Domain.Models\\Interfaces\\IFloorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:17:07.817Z",
+              "DocumentIndex": 14,
+              "Title": "StudyRoomsPage.xaml",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\StudyRoomsPage.xaml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T09:59:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyBookingPage.xaml",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\MyBookingPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T10:10:52.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Booking.cs",
-              "RelativeDocumentMoniker": "Domain.Models\\Entities\\Booking.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Booking.cs",
-              "RelativeToolTip": "Domain.Models\\Entities\\Booking.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwAsAAAAWAAAAAAAAAA==",
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T20:44:12.263Z",
+              "WhenOpened": "2026-03-13T10:10:42.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "CampusRoom.Presentation\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T10:10:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudyRoomsViewModel.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\ViewModels\\StudyRoomsViewModel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:06:40.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "IBookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IBookingRepository.cs",
-              "RelativeDocumentMoniker": "Domain.Models\\Interfaces\\IBookingRepository.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IBookingRepository.cs",
-              "RelativeToolTip": "Domain.Models\\Interfaces\\IBookingRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Title": "RoomDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\RoomDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\ViewModels\\RoomDetailsViewModel.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\RoomDetailsViewModel.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\ViewModels\\RoomDetailsViewModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:14:15.752Z",
+              "WhenOpened": "2026-03-13T08:56:33.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain.Models\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\User.cs",
-              "RelativeToolTip": "Domain.Models\\Entities\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:14:06.764Z",
+              "WhenOpened": "2026-03-13T10:09:57.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Floor.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Floor.cs",
-              "RelativeDocumentMoniker": "Domain.Models\\Entities\\Floor.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Floor.cs",
-              "RelativeToolTip": "Domain.Models\\Entities\\Floor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Helpers\\Availability.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Presentation\\Helpers\\Availability.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Presentation\\Helpers\\Availability.cs",
+              "RelativeToolTip": "CampusRoom.Presentation\\Helpers\\Availability.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:13:41.309Z",
+              "WhenOpened": "2026-03-13T08:56:50.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "UserSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Seeder\\UserSeeder.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Seeder\\UserSeeder.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Seeder\\UserSeeder.cs",
-              "RelativeToolTip": "CampusRoom.Infrastructure\\Seeder\\UserSeeder.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Application\\Services\\BookingService.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\BookingService.cs",
+              "RelativeToolTip": "CampusRoom.Application\\Services\\BookingService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:13:21.532Z",
+              "WhenOpened": "2026-03-13T08:54:03.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "RoomSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Seeder\\RoomSeeder.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Seeder\\RoomSeeder.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Seeder\\RoomSeeder.cs",
-              "RelativeToolTip": "CampusRoom.Infrastructure\\Seeder\\RoomSeeder.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Application\\Interfaces\\IBookingService.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "CampusRoom.Application\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:13:16.822Z",
+              "WhenOpened": "2026-03-13T09:52:18.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "FloorSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Seeder\\FloorSeeder.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Seeder\\FloorSeeder.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Seeder\\FloorSeeder.cs",
-              "RelativeToolTip": "CampusRoom.Infrastructure\\Seeder\\FloorSeeder.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Application\\Services\\RoomService.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\RoomService.cs",
+              "RelativeToolTip": "CampusRoom.Application\\Services\\RoomService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:13:12.01Z",
+              "WhenOpened": "2026-03-13T08:53:57.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "CampusRoom.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:13:05.708Z",
+              "WhenOpened": "2026-03-13T08:53:44.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "RoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\RoomRepository.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\RoomRepository.cs",
               "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Repositories\\RoomRepository.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\RoomRepository.cs",
               "RelativeToolTip": "CampusRoom.Infrastructure\\Repositories\\RoomRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:13:01.284Z",
+              "WhenOpened": "2026-03-13T08:53:38.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "FloorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\FloorRepository.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Repositories\\FloorRepository.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\FloorRepository.cs",
-              "RelativeToolTip": "CampusRoom.Infrastructure\\Repositories\\FloorRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Domain.Models\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "Domain.Models\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:12:55.52Z",
+              "WhenOpened": "2026-03-13T08:53:28.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "CampusRoom.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Domain.Models\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "Domain.Models\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:12:45.643Z",
+              "WhenOpened": "2026-03-13T08:53:24.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\RoomService.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Application\\Services\\RoomService.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\RoomService.cs",
-              "RelativeToolTip": "CampusRoom.Application\\Services\\RoomService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "Domain.Models\\Entities\\Room.cs",
+              "ToolTip": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Entities\\Room.cs",
+              "RelativeToolTip": "Domain.Models\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:12:24.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\BookingService.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Application\\Services\\BookingService.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Services\\BookingService.cs",
-              "RelativeToolTip": "CampusRoom.Application\\Services\\BookingService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:12:14.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IRoomService.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\IRoomService.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Application\\Interfaces\\IRoomService.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\IRoomService.cs",
-              "RelativeToolTip": "CampusRoom.Application\\Interfaces\\IRoomService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:12:07.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ILoginFacade.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\ILoginFacade.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Application\\Interfaces\\ILoginFacade.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\ILoginFacade.cs",
-              "RelativeToolTip": "CampusRoom.Application\\Interfaces\\ILoginFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:16:49.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IBookingService.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\IBookingService.cs",
-              "RelativeDocumentMoniker": "CampusRoom.Application\\Interfaces\\IBookingService.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Application\\Interfaces\\IBookingService.cs",
-              "RelativeToolTip": "CampusRoom.Application\\Interfaces\\IBookingService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:11:47.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom\\Program.cs",
-              "RelativeDocumentMoniker": "CampusRoom\\Program.cs",
-              "ToolTip": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom\\Program.cs",
-              "RelativeToolTip": "CampusRoom\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T08:11:25.421Z",
+              "WhenOpened": "2026-03-13T08:53:09.975Z",
               "EditorCaption": ""
             }
           ]

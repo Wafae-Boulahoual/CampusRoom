@@ -27,11 +27,11 @@ namespace CampusRoom.Infrastructure.Services
         }
         public async Task<List<Booking>> GetBookingsByRoomAndDateAsync(string roomId, DateTime date)// read
         { 
-            return await _context.Bookings.Find(b => b.RoomId == roomId && b.StartTime.Date == date.Date).ToListAsync();
+            return await _context.Bookings.Find(b => b.RoomId == roomId && b.Date.Date == date.Date).ToListAsync();
         }
         public async Task<List<Booking>> GetBookingsByUserAndDateAsync(string userId, DateTime date) // read
         {
-            return await _context.Bookings.Find(b => b.UserId == userId && b.StartTime.Date == date.Date).ToListAsync();
+            return await _context.Bookings.Find(b => b.UserId == userId && b.Date.Date == date.Date).ToListAsync();
         }
         public async Task UpdateAsync(Booking booking) //update
         {

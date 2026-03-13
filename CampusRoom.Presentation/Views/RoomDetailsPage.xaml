@@ -3,10 +3,62 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CampusRoom.Presentation.Views.RoomDetailsPage"
              Title="RoomDetailsPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Alla detaljer visas här"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+
+    <Grid>
+        <Image Source="background.png"
+               Aspect="AspectFill"
+               Opacity="0.5"/>
+
+        <ScrollView>
+            <VerticalStackLayout Padding="20"  Spacing=" 20">
+                
+                <Label Text="{Binding Room.RoomNumber}" 
+                       FontSize="24" 
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="White"/>
+
+                <Label Text="{Binding Room.FloorId, StringFormat='Våning: {0}'}"
+                               FontSize="18"
+                               TextColor="White"/>
+
+                <Label Text="{Binding Room.HasDoor, Converter={StaticResource BoolToYesNo}, StringFormat='Dörr: {0}'}"
+                               FontSize="18"
+                               TextColor="White"/>
+
+                <Label Text="{Binding Room.HasWindows, Converter={StaticResource BoolToYesNo}, StringFormat='Fönster: {0}'}"
+                               FontSize="18"
+                               TextColor="White"/>
+
+                <Label Text="{Binding Room.HasTv, Converter={StaticResource BoolToYesNo}, StringFormat='Skärm: {0}'}"
+                               FontSize="18"
+                               TextColor="White"/>
+
+                <Label Text="{Binding Room.HasSpeaker, Converter={StaticResource BoolToYesNo}, StringFormat='Högtalare: {0}'}"
+                               FontSize="18"
+                               TextColor="White"/>
+
+                <Label Text="{Binding Room.Capacity, StringFormat='Kapacitet: {0}'}"
+                               FontSize="18"
+                               TextColor="White"/>
+
+                <Label Text="Tillänglighet för idag:"
+                               FontSize="20"
+                               FontAttributes="Bold"
+                               TextColor="White"/>
+
+                <Label Text="{Binding AvailabilityText}" 
+                               FontSize="16"
+                               TextColor="White"/>
+
+        
+                <HorizontalStackLayout Spacing="20" HorizontalOptions="Center">
+                    <Button Text="Boka"
+                            Clicked="OnBookClicked"/>
+                    <Button Text="Tillbaka"
+                            Clicked="OnBackClicked"/>
+                </HorizontalStackLayout>
+             </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
 </ContentPage>

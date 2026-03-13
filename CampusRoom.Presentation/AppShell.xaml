@@ -9,5 +9,25 @@
     <ShellContent
         Title="Login"
         ContentTemplate="{DataTemplate views:LoginPage}"
-        Route="MainPage" />
+        Route="LoginPage" />
+    
+    <ShellContent
+        Title="Study Rooms"
+        ContentTemplate="{DataTemplate views:StudyRoomsPage}"
+        Route="StudyRoomsPage" />
+
+    <ShellContent
+        Title="Room Details"
+        ContentTemplate="{DataTemplate views:RoomDetailsPage}"
+        Route="RoomDetailsPage" />
+
+    <ShellContent
+        Title="My Bookings"
+        ContentTemplate="{DataTemplate views:MyBookingPage}"
+        Route="MyBookingPage" />
+
+    <ShellContent
+        Title="Book Room"
+        ContentTemplate="{DataTemplate views:BookRoomPage}"
+        Route="BookRoomPage" />
 </Shell>

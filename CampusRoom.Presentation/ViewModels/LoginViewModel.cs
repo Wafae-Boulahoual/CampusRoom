@@ -19,7 +19,7 @@ namespace CampusRoom.Presentation.ViewModels
 
         public string Email { get; set; }
         public string Password { get; set; }
-        public User LoggedUser { get; private set; }
+        public User LoggedUser { get; private set; } // perche private set?
 
         public async Task<(bool success, string? message)> LoginAsync()
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RlJip1ccZ4k=",
+  "dgSpecHash": "PriM1ay5S0w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom\\CampusRoom.csproj",
+  "projectFilePath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom\\CampusRoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wafae\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\wafae\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",

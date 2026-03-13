@@ -3,7 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CampusRoom.Presentation.Views.LoginPage"
              Title="LoginPage">
-    <VerticalStackLayout Padding="30,0" Spacing="25">
+    <Grid>
+        <Image Source="background.png"
+               Aspect="AspectFill"
+               Opacity="0.5"/>
+        <ScrollView>
+            <VerticalStackLayout Padding="30,0" Spacing="25">
         <Grid Grid.Row="0">
             <Image
                 Source="studyroom.png"
@@ -35,4 +40,6 @@
                 Clicked="OnLoginClicked"/>
 
     </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
 </ContentPage>

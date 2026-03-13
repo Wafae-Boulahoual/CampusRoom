@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bst/tzPfolg=",
+  "dgSpecHash": "kAE1HV4EuCw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
+  "projectFilePath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wafae\\.nuget\\packages\\mongodb.bson\\3.7.0\\mongodb.bson.3.7.0.nupkg.sha512",
     "C:\\Users\\wafae\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

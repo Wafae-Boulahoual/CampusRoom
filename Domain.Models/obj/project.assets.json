@@ -131,11 +131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
+      "projectUniqueName": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
       "projectName": "Domain.Models",
-      "projectPath": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
+      "projectPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
       "packagesPath": "C:\\Users\\wafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wafae\\OneDrive\\Desktop\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\obj\\",
+      "outputPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

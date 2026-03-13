@@ -16,6 +16,6 @@ namespace Domain.Models.Entities
         public bool HasTv { get; set; }
         public bool HasSpeaker { get; set; }
         public int Capacity { get; set; } = 6;
-
+        public string AvailabilityText { get; set; }
     }
 }
