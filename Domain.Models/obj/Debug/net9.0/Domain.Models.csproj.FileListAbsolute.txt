@@ -75,3 +75,16 @@ C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0
 C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\refint\Domain.Models.dll
 C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.pdb
 C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\ref\Domain.Models.dll
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\bin\Debug\net9.0\Domain.Models.deps.json
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\bin\Debug\net9.0\Domain.Models.dll
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\bin\Debug\net9.0\Domain.Models.pdb
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.csproj.AssemblyReference.cache
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.AssemblyInfoInputs.cache
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.AssemblyInfo.cs
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.csproj.CoreCompileInputs.cache
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.sourcelink.json
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.dll
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\refint\Domain.Models.dll
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\Domain.Models.pdb
+C:\sistaVersionCampusRoom\sistaVersionCampusRoom\Domain.Models\obj\Debug\net9.0\ref\Domain.Models.dll

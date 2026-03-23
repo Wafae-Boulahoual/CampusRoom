@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampusRoom.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14cb42f50f062a8b48a2bb502a7c7190fd08ccd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e01baa14a0b69588e64f8c36889f501f45a52bac")]
 [assembly: System.Reflection.AssemblyProductAttribute("CampusRoom.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampusRoom.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
