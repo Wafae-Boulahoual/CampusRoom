@@ -42,6 +42,10 @@
 		<UserSecretsId>a8d592fd-7b44-4646-8543-bc2cfea2c108</UserSecretsId>
 	</PropertyGroup>
 
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net9.0-android|AnyCPU'">
+	  <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+	</PropertyGroup>
+
 	<ItemGroup>
 		<!-- App Icon -->
 		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
@@ -74,8 +78,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Update="Views\BookRoomPage.xaml.cs">
-	    <DependentUpon>BookRoomPage.xaml</DependentUpon>
+	  <Compile Update="Views\MyBookingsPage.xaml.cs">
+	    <DependentUpon>MyBookingsPage.xaml</DependentUpon>
 	  </Compile>
 	  <Compile Update="Views\StudyRoomsPage.xaml.cs">
 	    <DependentUpon>StudyRoomsPage.xaml</DependentUpon>
@@ -83,13 +87,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Views\BookRoomPage.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </MauiXaml>
 	  <MauiXaml Update="Views\LoginPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Views\MyBookingPage.xaml">
+	  <MauiXaml Update="Views\MyBookingsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\RoomDetailsPage.xaml">

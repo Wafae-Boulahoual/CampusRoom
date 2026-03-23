@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj": {}
+    "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj": {
+    "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj",
+        "projectUniqueName": "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj",
         "projectName": "CampusRoom.Infrastructure",
-        "projectPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj",
+        "projectPath": "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\CampusRoom.Infrastructure\\CampusRoom.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\wafae\\.nuget\\packages\\",
-        "outputPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\CampusRoom.Infrastructure\\obj\\",
+        "outputPath": "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\CampusRoom.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj": {
-                "projectPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj"
+              "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\Domain.Models\\Domain.Models.csproj": {
+                "projectPath": "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\Domain.Models\\Domain.Models.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj": {
+    "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\Domain.Models\\Domain.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
+        "projectUniqueName": "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\Domain.Models\\Domain.Models.csproj",
         "projectName": "Domain.Models",
-        "projectPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\Domain.Models.csproj",
+        "projectPath": "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\Domain.Models\\Domain.Models.csproj",
         "packagesPath": "C:\\Users\\wafae\\.nuget\\packages\\",
-        "outputPath": "C:\\campusRoomFiles\\AppProject\\CampusRoom\\Domain.Models\\obj\\",
+        "outputPath": "C:\\sistaVersionCampusRoom\\sistaVersionCampusRoom\\Domain.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

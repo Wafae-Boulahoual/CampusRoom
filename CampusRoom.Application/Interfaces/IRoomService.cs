@@ -11,8 +11,8 @@ namespace CampusRoom.Application.Interfaces
     {
         Task<List<Room>> GetAllRoomsAsync();
         Task<List<Room>> GetRoomsByFloorAsync(string? floorId = null);
-        Task<List<Room>> GetRoomsWithoutDoorAsync();
         Task<List<Room>> GetRoomsWithTVAsync();
         Task<List<Room>> GetRoomWithSpeakerAsync();
+        List<string> AvailableTimeSlots { get; }
     }
 }

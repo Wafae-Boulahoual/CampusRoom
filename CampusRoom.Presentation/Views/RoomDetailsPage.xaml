@@ -2,63 +2,81 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CampusRoom.Presentation.Views.RoomDetailsPage"
-             Title="RoomDetailsPage">
+             Title="Boka rum">
 
-    <Grid>
-        <Image Source="background.png"
-               Aspect="AspectFill"
-               Opacity="0.5"/>
+    <Grid RowDefinitions="Auto, *, Auto" RowSpacing="15">
 
-        <ScrollView>
-            <VerticalStackLayout Padding="20"  Spacing=" 20">
-                
-                <Label Text="{Binding Room.RoomNumber}" 
-                       FontSize="24" 
-                       FontAttributes="Bold"
-                       HorizontalOptions="Center"
-                       TextColor="White"/>
+        <Image Grid.RowSpan="3"
+           Source="background.png"
+           Aspect="AspectFill"
+           Opacity="0.4"
+           InputTransparent="True"/>
 
-                <Label Text="{Binding Room.FloorId, StringFormat='Våning: {0}'}"
-                               FontSize="18"
-                               TextColor="White"/>
+        <ScrollView Grid.Row="0" Grid.RowSpan="2" Padding="20,40,20,20">
+            <VerticalStackLayout Spacing="10">
+                <VerticalStackLayout Spacing="5">
+                    <Label x:Name="LblRoomNumber"
+                           FontSize="28"
+                           FontAttributes="Bold"
+                           TextColor="Black"
+                           HorizontalOptions="Center"/>
 
-                <Label Text="{Binding Room.HasDoor, Converter={StaticResource BoolToYesNo}, StringFormat='Dörr: {0}'}"
-                               FontSize="18"
-                               TextColor="White"/>
+                    <Label x:Name="LblFloor"
+                           FontSize="18"
+                           TextColor="Black"
+                           HorizontalOptions="Center"/>
+                    <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
+                        <Label x:Name="LblTv"
+                               Text="📺 TV"
+                               IsVisible="False"
+                               TextColor="Black"/>
+                        <Label x:Name="LblSpeaker"
+                               Text="🔊 Högtalare"
+                               IsVisible="False"
+                               TextColor="Black"/>
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
 
-                <Label Text="{Binding Room.HasWindows, Converter={StaticResource BoolToYesNo}, StringFormat='Fönster: {0}'}"
-                               FontSize="18"
-                               TextColor="White"/>
-
-                <Label Text="{Binding Room.HasTv, Converter={StaticResource BoolToYesNo}, StringFormat='Skärm: {0}'}"
-                               FontSize="18"
-                               TextColor="White"/>
-
-                <Label Text="{Binding Room.HasSpeaker, Converter={StaticResource BoolToYesNo}, StringFormat='Högtalare: {0}'}"
-                               FontSize="18"
-                               TextColor="White"/>
-
-                <Label Text="{Binding Room.Capacity, StringFormat='Kapacitet: {0}'}"
-                               FontSize="18"
-                               TextColor="White"/>
-
-                <Label Text="Tillänglighet för idag:"
-                               FontSize="20"
-                               FontAttributes="Bold"
-                               TextColor="White"/>
-
-                <Label Text="{Binding AvailabilityText}" 
-                               FontSize="16"
-                               TextColor="White"/>
-
-        
-                <HorizontalStackLayout Spacing="20" HorizontalOptions="Center">
-                    <Button Text="Boka"
-                            Clicked="OnBookClicked"/>
-                    <Button Text="Tillbaka"
-                            Clicked="OnBackClicked"/>
-                </HorizontalStackLayout>
-             </VerticalStackLayout>
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Välj tider:" FontAttributes="Bold" FontSize="18"/>
+                    <CollectionView x:Name="SlotsCollectionView" SelectionMode="Multiple">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Frame Margin="0,5" Padding="10" CornerRadius="5">
+                                    <VisualStateManager.VisualStateGroups>
+                                        <VisualStateGroup Name="CommonStates">
+                                            <VisualState Name="Normal" />
+                                            <VisualState Name="Selected">
+                                                <VisualState.Setters>
+                                                    <Setter Property="BackgroundColor" Value="LightGreen" />
+                                                </VisualState.Setters>
+                                            </VisualState>
+                                        </VisualStateGroup>
+                                    </VisualStateManager.VisualStateGroups>
+                                    <Label Text="{Binding .}" FontSize="16" HorizontalOptions="Center"/>
+                                </Frame>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </VerticalStackLayout>
+            </VerticalStackLayout>
         </ScrollView>
+
+        <HorizontalStackLayout Grid.Row="2" Spacing="10">
+            <Button Text="Bekräfta bokning" 
+                Clicked="OnBookClicked" 
+                BackgroundColor="CadetBlue" 
+                TextColor="White"
+                HeightRequest="50"
+                HorizontalOptions="FillAndExpand"/>
+
+            <Button Text="Tillbaka" 
+                Clicked="OnBackClicked" 
+                BackgroundColor="Gray" 
+                TextColor="White"
+                HeightRequest="50"
+                HorizontalOptions="FillAndExpand"/>
+        </HorizontalStackLayout>
+
     </Grid>
 </ContentPage>

@@ -9,7 +9,7 @@ namespace Domain.Models.Interfaces
 {
     public interface IRoomRepository
     {
-        Task<List<Room>> GetAllAsync(string? floorId = null);
-        Task<Room> GetByIdAsync(string Id);
+        Task<List<Room>> GetAllAsync(string? floorId = null); // ska användas i studyroomspage för alla och med våning filter
+       
     }
 }

@@ -34,3 +34,55 @@ C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Application\obj\Debug\net9.0
 C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Application\obj\Debug\net9.0\refint\CampusRoom.Application.dll
 C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.pdb
 C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Application\obj\Debug\net9.0\ref\CampusRoom.Application.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.deps.json
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.pdb
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\Domain.Models.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\Domain.Models.pdb
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.csproj.AssemblyReference.cache
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.AssemblyInfoInputs.cache
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.AssemblyInfo.cs
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.csproj.CoreCompileInputs.cache
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.sourcelink.json
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRo.256D61F4.Up2Date
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\refint\CampusRoom.Application.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.pdb
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\ref\CampusRoom.Application.dll
+C:\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.deps.json
+C:\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.dll
+C:\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.pdb
+C:\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\Domain.Models.dll
+C:\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\cloneCamousRoom\CampusRoom.Application\bin\Debug\net9.0\Domain.Models.pdb
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.csproj.AssemblyReference.cache
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.AssemblyInfoInputs.cache
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.AssemblyInfo.cs
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.csproj.CoreCompileInputs.cache
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.sourcelink.json
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRo.256D61F4.Up2Date
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.dll
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\refint\CampusRoom.Application.dll
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.pdb
+C:\cloneCamousRoom\CampusRoom.Application\obj\Debug\net9.0\ref\CampusRoom.Application.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.deps.json
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\bin\Debug\net9.0\CampusRoom.Application.pdb
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\bin\Debug\net9.0\Domain.Models.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\bin\Debug\net9.0\Domain.Models.pdb
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.csproj.AssemblyReference.cache
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.AssemblyInfoInputs.cache
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.AssemblyInfo.cs
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.csproj.CoreCompileInputs.cache
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.sourcelink.json
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRo.256D61F4.Up2Date
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\refint\CampusRoom.Application.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\CampusRoom.Application.pdb
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Application\obj\Debug\net9.0\ref\CampusRoom.Application.dll

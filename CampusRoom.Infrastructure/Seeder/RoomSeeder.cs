@@ -15,32 +15,32 @@ namespace CampusRoom.Infrastructure.Seeder
             var rooms = new List<Room>
             {
                 // Floor 2
-                new Room { RoomNumber = "V216", FloorId = "2", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "V217", FloorId = "2", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "N214", FloorId = "2", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "N213", FloorId = "2", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "N216", FloorId = "2", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "N217E", FloorId = "2", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "N217D", FloorId = "2", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "L246a", FloorId = "2", HasWindows = false, HasDoor = false },
-                new Room { RoomNumber = "L246b", FloorId = "2", HasWindows = false, HasDoor = false },
-                new Room { RoomNumber = "L246c", FloorId = "2", HasWindows = false, HasDoor = false },
+                new Room { RoomNumber = "V216", FloorNumber = "2"},
+                new Room { RoomNumber = "V217", FloorNumber = "2" },
+                new Room { RoomNumber = "N214", FloorNumber = "2" },
+                new Room { RoomNumber = "N213", FloorNumber = "2" },
+                new Room { RoomNumber = "N216", FloorNumber  = "2"},
+                new Room { RoomNumber = "N217E", FloorNumber  = "2" },
+                new Room { RoomNumber = "N217D", FloorNumber  = "2" },
+                new Room { RoomNumber = "L246a", FloorNumber  = "2" },
+                new Room { RoomNumber = "L246b", FloorNumber  = "2"},
+                new Room { RoomNumber = "L246c", FloorNumber  = "2" },
 
                 // Floor 3
-                new Room { RoomNumber = "N314", FloorId = "3", HasWindows = true, HasDoor = true, HasTv = true },
-                new Room { RoomNumber = "N313", FloorId = "3", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "N316", FloorId = "3", HasWindows = true, HasDoor = true, HasSpeaker = true },
-                new Room { RoomNumber = "N317", FloorId = "3", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "M309", FloorId = "3", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "M308", FloorId = "3", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "M307", FloorId = "3", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "Ö312", FloorId = "3", HasWindows = true, HasDoor = true },
+                new Room { RoomNumber = "N314", FloorNumber  = "3", HasTv = true },
+                new Room { RoomNumber = "N313", FloorNumber  = "3"},
+                new Room { RoomNumber = "N316", FloorNumber  = "3", HasSpeaker = true },
+                new Room { RoomNumber = "N317", FloorNumber  = "3" },
+                new Room { RoomNumber = "M309", FloorNumber  = "3" },
+                new Room { RoomNumber = "M308", FloorNumber  = "3" },
+                new Room { RoomNumber = "M307", FloorNumber  = "3" },
+                new Room { RoomNumber = "Ö312", FloorNumber  = "3" },
 
                 // Floor 4
-                new Room { RoomNumber = "N417", FloorId = "4", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "N416", FloorId = "4", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "V410", FloorId = "4", HasWindows = true, HasDoor = true },
-                new Room { RoomNumber = "V411", FloorId = "4", HasWindows = true, HasDoor = true }
+                new Room { RoomNumber = "N417", FloorNumber  = "4"},
+                new Room { RoomNumber = "N416", FloorNumber  = "4" },
+                new Room { RoomNumber = "V410", FloorNumber  = "4" },
+                new Room { RoomNumber = "V411", FloorNumber  = "4"}
             };
 
             await context.Rooms.InsertManyAsync(rooms);

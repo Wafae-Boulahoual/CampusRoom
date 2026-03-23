@@ -18,11 +18,21 @@ namespace CampusRoom.Infrastructure.Data
             var client = new MongoClient(connectionString);
             _database = client.GetDatabase(databaseName);
         }
+        //private readonly IMongoDatabase _database;
+        //public string connectionString;
+        //public string databaseName;
+
+        //public CampusRoomDbContext(string connectionString, string databaseName)
+        //{
+        //    this.connectionString = "mongodb+srv://wafaeessbai_db_user:Admin1234@cluster0.fxvtykm.mongodb.net/?appName=Cluster0";
+        //    this.databaseName = "WafaeDB";
+
+        //    var client = new MongoClient(this.connectionString);
+        //    _database = client.GetDatabase(this.databaseName);
+        //}
 
         public IMongoCollection<User> Users => _database.GetCollection<User>("Users");
         public IMongoCollection<Room> Rooms => _database.GetCollection<Room>("Rooms");
-
-        public IMongoCollection<Floor> Floors => _database.GetCollection<Floor>("Floors");
         public IMongoCollection<Booking> Bookings => _database.GetCollection<Booking>("Bookings");
 
 

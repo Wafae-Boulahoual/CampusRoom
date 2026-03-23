@@ -1,5 +1,8 @@
 ﻿using CampusRoom.Application.Interfaces;
+using CampusRoom.Infrastructure.Services;
+using CampusRoom.Presentation.Services;
 using Domain.Models.Entities;
+using Domain.Models.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,29 +14,26 @@ namespace CampusRoom.Presentation.ViewModels
     public class LoginViewModel
     {
         private readonly ILoginFacade _loginFacade;
-
         public LoginViewModel(ILoginFacade loginFacade)
         {
             _loginFacade = loginFacade;
         }
 
-        public string Email { get; set; }
-        public string Password { get; set; }
-        public User LoggedUser { get; private set; } // perche private set?
-
-        public async Task<(bool success, string? message)> LoginAsync()
+        public async Task<string?> LoginAndSaveUserAsync(string email, string password)
         {
-            var errorMsg = await _loginFacade.LoginAsync(Email, Password);
-
-            if (errorMsg != null)
+            var errorMsg = await _loginFacade.LoginAsync(email, password);
+            if (errorMsg == null)
             {
-              
-                return (false, errorMsg);
+                var user = await _loginFacade.GetUserByEmail(email);
+                if (user != null)
+                {
+                    CurrentUserService.UserId = user.Id;
+                    CurrentUserService.UserName = user.Name;
+                    CurrentUserService.Education = user.Education;
+                }
             }
 
-            LoggedUser = await _loginFacade.GetUserByEmail(Email);
-            return (true, null);
-            
+            return errorMsg;
         }
     }
 }

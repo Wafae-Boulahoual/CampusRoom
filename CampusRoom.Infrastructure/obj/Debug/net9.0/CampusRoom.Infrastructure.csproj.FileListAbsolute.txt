@@ -45,3 +45,51 @@ C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net
 C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\refint\CampusRoom.Infrastructure.dll
 C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.pdb
 C:\campusRoomFiles\AppProject\CampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\ref\CampusRoom.Infrastructure.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.deps.json
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.pdb
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfo.cs
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.sourcelink.json
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRo.29404CA0.Up2Date
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\refint\CampusRoom.Infrastructure.dll
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\Users\wafae\OneDrive\Desktop\Lektioner prog 2\.vs\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\ref\CampusRoom.Infrastructure.dll
+C:\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.deps.json
+C:\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.dll
+C:\cloneCamousRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.pdb
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.AssemblyReference.cache
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfoInputs.cache
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfo.cs
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.sourcelink.json
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRo.29404CA0.Up2Date
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\refint\CampusRoom.Infrastructure.dll
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\cloneCamousRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\ref\CampusRoom.Infrastructure.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.deps.json
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\bin\Debug\net9.0\Domain.Models.pdb
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.AssemblyReference.cache
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfoInputs.cache
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.AssemblyInfo.cs
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.sourcelink.json
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRo.29404CA0.Up2Date
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\refint\CampusRoom.Infrastructure.dll
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\CampusRoom.Infrastructure.pdb
+C:\sistaVersioneCampusRoom\sistaVersionCampusRoom\CampusRoom.Infrastructure\obj\Debug\net9.0\ref\CampusRoom.Infrastructure.dll

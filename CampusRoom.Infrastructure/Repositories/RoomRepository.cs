@@ -25,15 +25,9 @@ namespace CampusRoom.Infrastructure.Services
                 return await _context.Rooms.Find(FilterDefinition<Room>.Empty).ToListAsync();
             }
             return await _context.Rooms
-                .Find (r=> r.FloorId == floorId)
+                .Find (r=> r.FloorNumber == floorId)
                 .ToListAsync();
         }
 
-        public async Task<Room?> GetByIdAsync(string Id) // read
-        {
-            return await _context.Rooms
-                .Find(r => r.Id == Id)
-                .FirstOrDefaultAsync();
-        }
     }
 }

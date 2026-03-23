@@ -11,6 +11,7 @@ using Microsoft.Maui.LifecycleEvents;
 using CampusRoom.Presentation.Views;
 using CampusRoom.Application.Facades;
 using CampusRoom.Presentation.ViewModels;
+using CampusRoom.Presentation.Services;
 
 
 
@@ -33,24 +34,27 @@ namespace CampusRoom.Presentation
             var connectionString = builder.Configuration["MongoDB:ConnectionString"];
             var databaseName = builder.Configuration["MongoDb:DatabaseName"];
 
+
             builder.Services.AddSingleton(new CampusRoomDbContext(connectionString, databaseName));
 
-            builder.Services.AddSingleton<IUserRepository, UserRepository>();
+            builder.Services.AddSingleton<IUserRepository, UserRepository>();//samma i hela projektet
             builder.Services.AddSingleton<IRoomRepository, RoomRepository>();
-            builder.Services.AddSingleton<IFloorRepository, FloorRepository>();
             builder.Services.AddSingleton<IBookingRepository, BookingRepository>();
 
             builder.Services.AddSingleton<ILoginFacade, LoginFacade>();
             builder.Services.AddSingleton<IBookingService, BookingService>();
             builder.Services.AddSingleton<IRoomService, RoomService>();
 
-            builder.Services.AddSingleton<LoginViewModel>();
-            builder.Services.AddTransient<StudyRoomsViewModel>();
 
-            builder.Services.AddSingleton<LoginPage>();
-            builder.Services.AddSingleton<MyBookingPage>();
-            builder.Services.AddSingleton<RoomDetailsPage>();
-            //builder.Services.AddSingleton<BookRoomPage>();
+            builder.Services.AddTransient<LoginViewModel>();//skapar en ny instans varje gång
+            builder.Services.AddTransient<StudyRoomsViewModel>();
+            builder.Services.AddTransient<MyBookingsViewModel>();
+            builder.Services.AddTransient<RoomDetailsViewModel>();
+
+            builder.Services.AddTransient<LoginPage>();
+            builder.Services.AddTransient<MyBookingsPage>();
+            builder.Services.AddTransient<RoomDetailsPage>();
+            builder.Services.AddTransient<StudyRoomsPage>();
 
 
 

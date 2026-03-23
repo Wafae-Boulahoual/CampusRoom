@@ -1,10 +1,11 @@
 ﻿using CampusRoom.Application.Interfaces;
-using CampusRoom.Presentation.Helpers;
 using Domain.Models.Entities;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,9 +15,7 @@ namespace CampusRoom.Presentation.ViewModels
     {
         private readonly IRoomService _roomService;
         private readonly IBookingService _bookingService;
-
-        // Queste due proprietà servono alla pagina per mostrare i dati
-        private Room _room { get; set; }
+        private Room _room;
         public Room Room
         {
             get => _room;
@@ -26,30 +25,32 @@ namespace CampusRoom.Presentation.ViewModels
                 OnPropertyChanged(nameof(Room));
             }
         }
-        private string _availabilityText { get; set; }
-        public string AvailabilityText
-        {
-            get => _availabilityText;
-            set
-            {
-                _availabilityText = value;
-                OnPropertyChanged(nameof(AvailabilityText));
-            }
-        }
+        public ObservableCollection<string> AvailableSlots { get; set; } = new(); // uppdaterar UI slots
+
         public RoomDetailsViewModel(IRoomService roomService, IBookingService bookingService)
         {
             _roomService = roomService;
             _bookingService = bookingService;
         }
-
-        public async Task LoadRoom(Room room)
+        public async Task LoadAvailableSlotsAsync()
         {
-            Room = room;
-            var bookings = await _bookingService.GetRoomBookingsAsync(room.Id, DateTime.Today);
-            AvailabilityText = Availability.GetAvailabilityText(room, bookings);
+            var allPossibleTimes = _roomService.AvailableTimeSlots; // alla slots
+
+            var available = await _bookingService.GetAvailableSlotsAsync(Room.Id,DateTime.Today,allPossibleTimes); // lediga
+
+            AvailableSlots.Clear(); //rensa listan
+            foreach (var slot in available)
+            {
+                AvailableSlots.Add(slot);
+            }
         }
+        
+
         public event PropertyChangedEventHandler PropertyChanged;
-        protected void OnPropertyChanged(string propertyName) =>
+        protected void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
     }
+        
 }

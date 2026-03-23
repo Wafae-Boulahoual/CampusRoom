@@ -23,14 +23,18 @@ namespace CampusRoom.Application.Services
         public async Task<List<Room>> GetRoomsByFloorAsync(string? floorId = null)
         {
             var rooms = await _roomRepository.GetAllAsync();
-            return rooms.Where(r=>r.FloorId == floorId).ToList();
+            return rooms.Where(r=>r.FloorNumber == floorId).ToList();
         }
 
-        public async Task<List<Room>> GetRoomsWithoutDoorAsync()
+        public List<string> AvailableTimeSlots { get; } = new()
         {
-            var rooms = await _roomRepository.GetAllAsync();
-            return rooms.Where(r => !r.HasDoor).ToList();
-        }
+            "08:00 - 10:00",
+            "10:00 - 12:00",
+            "12:00 - 14:00",
+            "14:00 - 16:00",
+            "16:00 - 18:00",
+            "18:00 - 20:00"
+        };
 
         public async Task<List<Room>> GetRoomsWithTVAsync()
         {

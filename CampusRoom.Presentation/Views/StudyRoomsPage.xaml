@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CampusRoom.Presentation.Views.StudyRoomsPage"
@@ -8,7 +8,10 @@
                Aspect="AspectFill"
                Opacity="0.5"/>
         <ScrollView>
-            <VerticalStackLayout Padding="20" Spacing="20">
+            <VerticalStackLayout Grid.Row="0" Padding="15">
+                <Label Text="{Binding UserName, StringFormat='Välkommen {0}'}"
+                       FontSize="22" 
+                       FontAttributes="Bold" />
                 <HorizontalStackLayout Spacing="10">
                     <Picker x:Name="FilterPicker"
                         Title="Välj filter"
@@ -18,7 +21,6 @@
                             <x:String>Våning 2</x:String>
                             <x:String>Våning 3</x:String>
                             <x:String>Våning 4</x:String>
-                            <x:String>Inga dörrar</x:String>
                             <x:String>Med skärm</x:String>
                             <x:String>Med högtalare</x:String>
                         </Picker.Items>
@@ -44,8 +46,7 @@
 
                                     <VerticalStackLayout>
                                         <Label Text="{Binding RoomNumber}" FontAttributes="Bold"/>
-                                        <Label Text="{Binding FloorId, StringFormat='Våning: {0}'}"/>
-                                        <Label Text="{Binding AvailabilityText}"/>
+                                        <Label Text="{Binding FloorNumber, StringFormat='Våning: {0}'}"/>
                                     </VerticalStackLayout>
                                 </Frame>
                             </ViewCell>

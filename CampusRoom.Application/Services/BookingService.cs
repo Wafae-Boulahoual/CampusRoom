@@ -34,29 +34,69 @@ namespace CampusRoom.Application.Services
 
         public async Task<List<Booking>> GetUserBookingsAsync(string userId, DateTime date)
         {
-            return await _bookingRepository.GetBookingsByUserAndDateAsync(userId, date);
+            return await _bookingRepository.GetBookingsByUserAsync(userId, date);
         }
-        public async Task UpdateBookingAsync(Booking booking)
+       
+        public async Task CreateMultipleBookingsAsync(string roomId, string userId, DateTime date, List<string> selectedSlots,string roomNumber, string floor)
         {
-            await _bookingRepository.UpdateAsync(booking);
-        }
-        public async Task CreateMultipleBookingsAsync(string roomId, string userId, DateTime date, List<string> selectedSlots)
-        {
-            if (selectedSlots == null || selectedSlots.Count == 0)
+            if (selectedSlots == null || selectedSlots.Any() == false)
+            {
                 return;
+            }
+
+            var bookingDate = date.Date;
+            var existingBookings = await _bookingRepository.GetBookingsByRoomAndDateAsync(roomId, bookingDate);
+
+            var newBookings = new List<Booking>(); 
 
             foreach (var slot in selectedSlots)
             {
-                var booking = new Booking
+                newBookings.Add(new Booking
                 {
+                    Id = null, 
                     RoomId = roomId,
                     UserId = userId,
-                    Date = date,
-                    TimeSlot = slot
-                };
-                await _bookingRepository.AddAsync(booking);
+                    Date = bookingDate,
+                    TimeSlot = slot,
+                    RoomNumber = roomNumber,
+                    Floor = floor
+                });
+            }
+ 
+            foreach (var b in newBookings)
+            {
+                await _bookingRepository.AddAsync(b);
             }
         }
 
+        public async Task<List<string>> GetAvailableSlotsAsync(string roomId, DateTime date, List<string> allPossibleSlots)
+        {
+            var booked = await _bookingRepository.GetBookingsByRoomAndDateAsync(roomId, date);
+
+            var occupied = booked.Select(b => b.TimeSlot).ToList();
+
+            var available = new List<string>();
+
+            var currentTime = DateTime.Now.TimeOfDay;
+
+            bool isToday = date.Date == DateTime.Today;
+
+            foreach (var slot in allPossibleSlots)
+            {
+                bool isOccupied = occupied.Contains(slot);
+
+                var startTimeString = slot.Split('-')[0]; //tar första delen av strängen
+                var startTime = TimeSpan.Parse(startTimeString);//omvandla den till tid
+
+                if (isOccupied == false)
+                {
+                    if (isToday == false || startTime > currentTime)
+                    {
+                        available.Add(slot);
+                    }
+                }
+            }
+            return available;
+        }
     }
 }

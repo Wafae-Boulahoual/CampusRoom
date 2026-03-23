@@ -13,7 +13,7 @@ namespace CampusRoom.Infrastructure.Services
     public class BookingRepository : IBookingRepository
     {
         private CampusRoomDbContext _context;
-        public BookingRepository(CampusRoomDbContext context)
+        public BookingRepository(CampusRoomDbContext context) 
         {
             _context = context;
         }
@@ -26,16 +26,26 @@ namespace CampusRoom.Infrastructure.Services
             await _context.Bookings.DeleteOneAsync(b => b.Id == bookingId);
         }
         public async Task<List<Booking>> GetBookingsByRoomAndDateAsync(string roomId, DateTime date)// read
-        { 
-            return await _context.Bookings.Find(b => b.RoomId == roomId && b.Date.Date == date.Date).ToListAsync();
-        }
-        public async Task<List<Booking>> GetBookingsByUserAndDateAsync(string userId, DateTime date) // read
         {
-            return await _context.Bookings.Find(b => b.UserId == userId && b.Date.Date == date.Date).ToListAsync();
+            var start = date.Date;
+            var end = start.AddDays(1);
+
+            return await _context.Bookings
+                .Find(b => b.RoomId == roomId && b.Date >= start && b.Date < end)
+                .ToListAsync();
         }
-        public async Task UpdateAsync(Booking booking) //update
+        public async Task<List<Booking>> GetBookingsByUserAsync(string userId, DateTime date) // read
         {
-            await _context.Bookings.ReplaceOneAsync(b => b.Id == booking.Id, booking);
+            //bokningen kan göras bara för samma dag
+            var dayStart = date.Date; 
+            var dayEnd = dayStart.AddDays(1);
+           
+            return await _context.Bookings
+                .Find(b => b.UserId == userId &&
+                           b.Date >= dayStart &&
+                           b.Date < dayEnd)
+                .ToListAsync();
         }
+       
     }
 }

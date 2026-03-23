@@ -12,8 +12,8 @@ namespace CampusRoom.Application.Interfaces
         Task<List<Booking>> GetUserBookingsAsync(string userId, DateTime date);
         Task<List<Booking>> GetRoomBookingsAsync(string roomId, DateTime date);
         Task AddBookingAsync(Booking booking);
-        Task UpdateBookingAsync(Booking booking);
         Task DeleteBookingAsync(string bookingId);
-        Task CreateMultipleBookingsAsync(string roomId, string userId, DateTime date, List<string> selectedSlots);
+        Task CreateMultipleBookingsAsync(string roomId, string userId, DateTime date, List<string> selectedSlots, string roomNumber, string floor);
+        Task<List<string>> GetAvailableSlotsAsync(string roomId, DateTime date, List<string> allPossibleSlots);
     }
 }

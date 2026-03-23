@@ -15,10 +15,13 @@ namespace CampusRoom
 
             var dbContext = new CampusRoomDbContext(connectionString, databaseName);
 
+
             //await UserSeeder.UserSeedsAsync(dbContext);
             //await RoomSeeder.RoomSeedsAsync(dbContext);
-            //await FloorSeeder.FloorSeedsAsync(dbContext);
             //Console.WriteLine("Seeding...Done!");
+
+
         }
     }
 }
+
